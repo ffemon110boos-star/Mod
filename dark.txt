@@ -13,7 +13,7 @@
         "EX": "2099-06-30",
         "STATUS": true,
         "MAX_DEVICES": 1,
-        "DEVICES": ["e1555f9e756a46ff"]
+        "DEVICES": [""]
     },
     {
         "USER": "testuser",
