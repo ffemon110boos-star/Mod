@@ -16,10 +16,10 @@
         "DEVICES": [""]
     },
     {
-        "USER": "testuser",
-        "PASS": "testpass",
-        "EX": "2025-03-15",
-        "STATUS": false,
+        "USER": "os",
+        "PASS": "os",
+        "EX": "2027-03-15",
+        "STATUS": true,
         "MAX_DEVICES": 1,
         "DEVICES": []
     }
