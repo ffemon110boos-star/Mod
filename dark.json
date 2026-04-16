@@ -1,10 +1,26 @@
-{
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update ! @KRISHNA1_EXE",
-    "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/ffemon110boos-star/Mod/raw/refs/heads/main/libNikuMods.zip",
-    "notice_title":"Welcome To Vip Mod",
-    "notice_body":"@KRISHNA1_EXE"
-}
+[
+    {
+        "USER": "admin",
+        "PASS": "1234",
+        "EX": "2025-12-31",
+        "STATUS": true,
+        "MAX_DEVICES": 2,
+        "DEVICES": ["device_id_1", "device_id_2"]
+    },
+    {
+        "USER": "dark",
+        "PASS": "dark",
+        "EX": "2025-06-30",
+        "STATUS": true,
+        "MAX_DEVICES": 1,
+        "DEVICES": ["e1555f9e756a46ff"]
+    },
+    {
+        "USER": "testuser",
+        "PASS": "testpass",
+        "EX": "2025-03-15",
+        "STATUS": false,
+        "MAX_DEVICES": 1,
+        "DEVICES": []
+    }
+]
